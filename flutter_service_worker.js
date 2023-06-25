@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/variancia.png": "b8288b1abc6d7f537648103c1bacae30",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "030ef27c01dcc510a3d8f993e75550cc",
+"assets/NOTICES": "e3537874b4e2c98e735b657bf81a14b8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -29,10 +29,10 @@ const RESOURCES = {
 "icons/android-chrome-192x192.png": "7932cb36eb0c95d603c838812f79129b",
 "icons/android-chrome-512x512.png": "6ef73eb8efe7f08a279a6882f534c58f",
 "icons/apple-touch-icon.png": "d08dd4d2325821e295448d8e3750bfe3",
-"index.html": "c9d09dc4e62136e3762d2eca2b43c93b",
-"/": "c9d09dc4e62136e3762d2eca2b43c93b",
+"index.html": "e14e957b583562a514bf280260957295",
+"/": "e14e957b583562a514bf280260957295",
 "logo.png": "da140c66f3414ea646d737b7b062338f",
-"main.dart.js": "f588cbc199006d6692bea25606a1da03",
+"main.dart.js": "42c02b2a91e9875b7129c4fea8b2bb44",
 "manifest.json": "42d04cfe09a2b4dd7e3b0dfcc2441ce6",
 "version.json": "3510b67ff9f75f3542a7d5d115973ed5"
 };
